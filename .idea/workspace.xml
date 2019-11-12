@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2faeb12f-6f28-48aa-97aa-e97807fd2416" name="Default Changelist" comment="" />
-    <list id="e8f86756-c481-4e6a-b64a-0e7e78649635" name="Revert &quot;ms-mock&quot;" comment="Revert &quot;ms-mock&quot;&#10;&#10;This reverts commit 40a60b3">
-      <change beforePath="$PROJECT_DIR$/api/lib/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/lib/main.py" afterDir="false" />
-    </list>
+    <list id="e8f86756-c481-4e6a-b64a-0e7e78649635" name="Revert &quot;ms-mock&quot;" comment="Revert &quot;ms-mock&quot;&#10;&#10;This reverts commit 40a60b3" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,15 @@
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.compare" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-231804877">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -116,7 +123,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/lib/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="235">
               <caret line="213" selection-start-line="213" selection-end-line="213" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -168,8 +175,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="560" />
-    <option name="y" value="197" />
+    <option name="x" value="192" />
+    <option name="y" value="228" />
     <option name="width" value="1035" />
     <option name="height" value="746" />
   </component>
@@ -217,7 +224,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/360驱动大师目录/qweqeqw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -263,9 +270,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="560" y="197" width="1035" height="746" extended-state="0" />
+    <frame x="192" y="228" width="1035" height="746" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25948718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2646154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994872" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50153846" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49846154" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49846154" visible="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -409,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/lib/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="235">
           <caret line="213" selection-start-line="213" selection-end-line="213" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
